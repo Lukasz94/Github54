@@ -8,6 +8,7 @@
 #include <vector>
 
 TEST(factorial_test, factorial_of_0_is_1) {
+
   EXPECT_EQ(1, factorial(0));
 }
 

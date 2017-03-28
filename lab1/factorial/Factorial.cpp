@@ -3,6 +3,4 @@
 //
 #include "Factorial.h"
 
-int factorial(int value) {
-  return 0;
-}
+
